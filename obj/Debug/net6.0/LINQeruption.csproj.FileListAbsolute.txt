@@ -1,0 +1,15 @@
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\bin\Debug\net6.0\LINQeruption.exe
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\bin\Debug\net6.0\LINQeruption.deps.json
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\bin\Debug\net6.0\LINQeruption.runtimeconfig.json
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\bin\Debug\net6.0\LINQeruption.dll
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\bin\Debug\net6.0\LINQeruption.pdb
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\obj\Debug\net6.0\LINQeruption.csproj.AssemblyReference.cache
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\obj\Debug\net6.0\LINQeruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\obj\Debug\net6.0\LINQeruption.AssemblyInfoInputs.cache
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\obj\Debug\net6.0\LINQeruption.AssemblyInfo.cs
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\obj\Debug\net6.0\LINQeruption.csproj.CoreCompileInputs.cache
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\obj\Debug\net6.0\LINQeruption.dll
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\obj\Debug\net6.0\refint\LINQeruption.dll
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\obj\Debug\net6.0\LINQeruption.pdb
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\obj\Debug\net6.0\LINQeruption.genruntimeconfig.cache
+C:\Users\altis\Documents\Bootcamp\C#\LINQeruption\obj\Debug\net6.0\ref\LINQeruption.dll
